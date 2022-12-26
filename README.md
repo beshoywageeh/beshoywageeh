@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://beshoywageeh.github.io/portofolio/index.html](https://beshoywageeh.github.io/portofolio/index.html)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **beshoywageeh2016@gmail.com**
 
